@@ -4,7 +4,7 @@ public class Test {
 
 	public void setMessage()
 	{
-		
+		System.out.println("Set Message");
 	}
 	
 	/**
