@@ -2,6 +2,11 @@ package com.af.sample;
 
 public class Test {
 
+	public void setMessage()
+	{
+		
+	}
+	
 	/**
 	 * @param args
 	 */
